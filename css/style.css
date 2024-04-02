@@ -507,7 +507,7 @@ li:last-of-type .dropdown__link::after {
     
 }
 .window:target{
-    display: flex;gi
+    display: flex;
 }
 .window_form{
     max-width: 400px;
