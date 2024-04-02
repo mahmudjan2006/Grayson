@@ -495,26 +495,3 @@ li:last-of-type .dropdown__link::after {
     align-items: center;
     font-size: 30px;
 }
-.window {
-    height: 100vh;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.4);
-    display: none;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    z-index: 10; 
-    
-}
-.window:target{
-    display: flex;
-}
-.window_form{
-    max-width: 400px;
-    height: 400px;
-    width: 100%;
-    background-color: #fff;
-    border-radius: 20px;
-    padding: 20px;
-    
-}
